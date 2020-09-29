@@ -26,3 +26,9 @@ const CountryList = {
        ];
     }
 export default CountryList
+
+
+use
+
+
+import CountryList from 'you file path'
